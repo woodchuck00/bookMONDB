@@ -1,2 +1,0 @@
-# bookMONDB
-simple book db
